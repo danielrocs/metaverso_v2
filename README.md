@@ -51,6 +51,7 @@ metaverso_v2/
 ## ⚙️ Como Executar o Projeto
 
 ### Pré-requisitos
+
 1. **Unity Editor** instalado (versão recomendada com suporte a build Android/Windows XR).
 2. **Unity Hub**.
 3. **Meta Quest Link / Air Link** (caso deseje testar diretamente em um headset Meta Quest).
@@ -58,6 +59,7 @@ metaverso_v2/
 ### Passo a Passo
 
 1. **Clonar o Repositório**:
+
    ```bash
    git clone https://github.com/seu-usuario/metaverso_v2.git
    ```
@@ -68,7 +70,7 @@ metaverso_v2/
    - Aguarde o Unity carregar os pacotes e compilar as dependências.
 
 3. **Executar a Cena**:
-   - No painel *Project*, navegue até `Assets/Scenes/`.
+   - No painel _Project_, navegue até `Assets/Scenes/`.
    - Abra a cena `SampleScene.unity`.
    - Pressione o botão **Play** no Unity Editor (garanta que seu Headset VR ou o XR Simulator esteja ativo).
 
@@ -89,10 +91,6 @@ metaverso_v2/
 - [x] **Construção do Cenário**: Ambiente 3D navegável com elementos visuais e colisores.
 - [x] **Navegação**: Sistema de locomoção configurado para o usuário explorar o ambiente.
 - [x] **Organização do Projeto**: Estrutura limpa de diretórios e boas práticas no Unity.
-- [ ] *(Opcional)* **Recursos Avançados Meta SDK**: Funcionalidades específicas do ecossistema Oculus/Meta (Passthrough, Hand Tracking, etc.).
+- [ ] _(Opcional)_ **Recursos Avançados Meta SDK**: Funcionalidades específicas do ecossistema Oculus/Meta (Passthrough, Hand Tracking, etc.).
 
 ---
-
-## 📝 Licença
-
-Este projeto é um exercício acadêmico/prático desenvolvido para fins de aprendizado na primeira fase do curso de Realidade Virtual.
